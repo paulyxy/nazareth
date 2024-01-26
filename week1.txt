@@ -1,0 +1,4 @@
+
+load(url('http://githum.com/paulyxy/week1.RData'))
+.cls()
+.rpy()
