@@ -1,0 +1,6 @@
+infile<-"https://github.com/paulyxy/nazareth/blob/main/week14.RData"
+load(url(infile))
+.cls()
+.rpy()
+
+
